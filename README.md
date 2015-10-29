@@ -22,3 +22,5 @@ common for all operation systems.
     2. Install Autohotkey
         * Map Right Control to Enter
         * Map frequently used software to hotkeys (winkey + <x>). See windows/hotkeys.ahk
+        * Put link to hotkeys.ahk to autoload
+    3. Install Double Commander
