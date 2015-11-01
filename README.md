@@ -26,3 +26,4 @@ common for all operation systems.
     3. Install Double Commander
     4. Install Firefox
         * Install VimFX addon
+    5. Install vim
