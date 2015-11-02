@@ -14,6 +14,8 @@ common for all operation systems.
     3. Map Control + m to Enter
     4. Map Right Control to Enter
 
+Also tune mouse for left hand.
+
 # Windows
     1. Install SharpKeys
         * Map CapsLock to Left Control
