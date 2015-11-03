@@ -25,7 +25,8 @@ Also tune mouse for left hand.
         * Map Right Control + M to Enter
         * Map frequently used software to hotkeys (winkey + <x>). See windows/hotkeys.ahk
         * Put link to hotkeys.ahk to autoload
-    3. Install Double Commander
-    4. Install Firefox
+    3. Install vim
+    4. Install Double Commander
+        * set vim as default editor for double commander ( --remote-silent )
+    5. Install Firefox
         * Install VimFX addon
-    5. Install vim
