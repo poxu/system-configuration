@@ -30,3 +30,4 @@ Also tune mouse for left hand.
         * set vim as default editor for double commander ( --remote-silent )
     5. Install Firefox
         * Install VimFX addon
+    6. Install MSYS2
