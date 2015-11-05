@@ -31,3 +31,13 @@ Also tune mouse for left hand.
     5. Install Firefox
         * Install VimFX addon
     6. Install MSYS2
+        * in case you are behind a proxy there a trick to make network connection work
+```bash
+        export http_proxy=user:password@proxy:port
+        export https_proxy=$http_proxy
+        export ftp_proxy=$http_proxy
+        export rsync_proxy=$http_proxy
+        export rsync_proxy=$http_proxy
+        export no_proxy="localhost,127.0.0.1,localaddress,.localdomain.com"
+
+```
