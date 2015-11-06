@@ -26,6 +26,7 @@ Also tune mouse for left hand.
         * Map frequently used software to hotkeys (winkey + <x>). See windows/hotkeys.ahk
         * Put link to hotkeys.ahk to autoload
     3. Install vim
+        * Map Control+S in normal mode to save file
     4. Install Double Commander
         * set vim as default editor for double commander ( --remote-silent )
     5. Install Firefox
