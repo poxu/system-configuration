@@ -28,6 +28,12 @@ Also tune mouse for left hand.
     3. Install vim
         * Map Control+S in normal mode to save file
         * Map Control+^ in insert mode to switch language
+        * Install ctrlp
+            * add the following to vimrc
+```vimscript
+            set runtimepath^=~/.vim/bundle/ctrlp.vim
+```
+
     4. Install Double Commander
         * set vim as default editor for double commander ( --remote-silent )
     5. Install Firefox
