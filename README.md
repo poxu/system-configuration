@@ -49,5 +49,6 @@ Also tune mouse for left hand.
         export no_proxy="localhost,127.0.0.1,localaddress,.localdomain.com"
 
 ```
+        * install dvtm
     7. Install Media Player Classic
     8. Install CCCP codecs
