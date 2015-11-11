@@ -50,5 +50,6 @@ Also tune mouse for left hand.
 
 ```
         * install dvtm
+        * use vundle to manage vim plugins
     7. Install Media Player Classic
     8. Install CCCP codecs
