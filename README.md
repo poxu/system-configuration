@@ -15,7 +15,14 @@ common for all operation systems.
     4. Map Right Control to Enter
 
 Also tune mouse for left hand.
-
+##VIM
+### Plugins
+    1. vundle
+    2. ctrlp
+### Mappings
+    * Map Control+S in normal mode to save file
+    * Map Control+^ in insert mode to switch language
+    
 # Windows
     1. Install SharpKeys
         * Map CapsLock to Left Control
@@ -26,8 +33,6 @@ Also tune mouse for left hand.
         * Map frequently used software to hotkeys (winkey + <x>). See windows/hotkeys.ahk
         * Put link to hotkeys.ahk to autoload
     3. Install vim
-        * Map Control+S in normal mode to save file
-        * Map Control+^ in insert mode to switch language
         * Install ctrlp
             * add the following to vimrc
 ```vimscript
