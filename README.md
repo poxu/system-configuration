@@ -27,6 +27,9 @@ Also tune mouse for left hand.
             inoremap <silent> <C-S>         <C-O>:update<CR>
 ```
     * Map Control+^ in insert mode to switch language
+```vimscript
+            set keymap=russian-jcukenwin
+```
     
 # Windows
     1. Install SharpKeys
