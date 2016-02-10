@@ -21,6 +21,11 @@ Also tune mouse for left hand.
     2. ctrlp
 ### Mappings
     * Map Control+S in normal mode to save file
+```vimscript
+            noremap <silent> <C-S>          :update<CR>
+            vnoremap <silent> <C-S>         <C-C>:update<CR>
+            inoremap <silent> <C-S>         <C-O>:update<CR>
+```
     * Map Control+^ in insert mode to switch language
     
 # Windows
