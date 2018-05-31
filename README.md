@@ -30,6 +30,10 @@ Also tune mouse for left hand.
 ```vimscript
             set keymap=russian-jcukenwin
 ```
+    * Set desert colorscheme
+```vimscript
+            colorscheme desert
+```
     
 # Windows
     1. Install SharpKeys
