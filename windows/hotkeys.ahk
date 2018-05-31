@@ -26,3 +26,7 @@ assignHotKey(application, window)
 SendInput, {LControl, Up}
 SendInput, {Enter}
 return
+
+CapsLock::Ctrl
+RControl::Enter
+Enter::RControl
